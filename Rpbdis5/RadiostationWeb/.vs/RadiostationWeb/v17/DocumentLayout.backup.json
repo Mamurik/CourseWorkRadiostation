@@ -1,0 +1,1250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\viewmodels\\users\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\viewmodels\\users\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\viewmodels\\users\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\viewmodels\\users\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\data\\dbuserinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\data\\dbuserinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\middleware\\dbinitializermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\middleware\\dbinitializermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\controllers\\recorddetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\controllers\\recorddetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\viewmodels\\users\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\viewmodels\\users\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\records\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\records\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\records\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\records\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\records\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\records\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\recorddetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\recorddetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\recorddetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\recorddetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\genres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\genres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\broadcastschedules\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\broadcastschedules\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\broadcastschedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\broadcastschedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\artists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\artists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\services\\broadcastsheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\services\\broadcastsheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\services\\ibroadcastsheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\services\\ibroadcastsheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\middleware\\dbcachemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\middleware\\dbcachemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\data\\dbinitiallizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\data\\dbinitiallizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\controllers\\broadcastschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\controllers\\broadcastschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|solutionrelative:tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\tests\\broadcastschedulescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|solutionrelative:tests\\broadcastschedulescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\tests\\employeescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|solutionrelative:tests\\employeescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\tests\\recordscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|solutionrelative:tests\\recordscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\tests\\testdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C9AE7-2F3A-4285-93F8-1C50224F7B4B}|Tests\\Tests.csproj|solutionrelative:tests\\testdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\models\\broadcastschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\models\\broadcastschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\data\\radiostationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\data\\radiostationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\models\\recorddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\models\\recorddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\infrastructure\\filters\\settosessionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\infrastructure\\filters\\settosessionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\infrastructure\\filters\\exceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\infrastructure\\filters\\exceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\infrastructure\\transformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\infrastructure\\transformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\infrastructure\\filters\\timinglogattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\infrastructure\\filters\\timinglogattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\infrastructure\\filters\\cacheresourcefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\infrastructure\\filters\\cacheresourcefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|d:\\study\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0440\u043F\u0431\u0434\u0438\u0441\\lab2\\rpbdis\\rpbdis5\\radiostationweb\\radiostationweb\\migrations\\applicationdb\\20241111105903_initializeidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF04A03-CDFA-4C53-A035-2DB744DA8FAE}|RadiostationWeb\\RadiostationWeb.csproj|solutionrelative:radiostationweb\\migrations\\applicationdb\\20241111105903_initializeidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:36:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbUserInitializer.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Data\\DbUserInitializer.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Data\\DbUserInitializer.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Data\\DbUserInitializer.cs",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Data\\DbUserInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:40:46.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:42:28.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RadiostationWeb\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAvwFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:18:23.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Program.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Program.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Program.cs",
+              "RelativeToolTip": "RadiostationWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:09:38.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T10:37:24.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\Users\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\ViewModels\\Users\\CreateUserViewModel.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\Users\\CreateUserViewModel.cs",
+              "RelativeToolTip": "RadiostationWeb\\ViewModels\\Users\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:09:07.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\Users\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\ViewModels\\Users\\UserViewModel.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\Users\\UserViewModel.cs",
+              "RelativeToolTip": "RadiostationWeb\\ViewModels\\Users\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:09:38.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "RadiostationWeb\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:08:17.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbInitializerMiddleware.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Middleware\\DbInitializerMiddleware.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Middleware\\DbInitializerMiddleware.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Middleware\\DbInitializerMiddleware.cs",
+              "RelativeToolTip": "RadiostationWeb\\Middleware\\DbInitializerMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:06:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecordDetailController.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\RecordDetailController.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Controllers\\RecordDetailController.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\RecordDetailController.cs",
+              "RelativeToolTip": "RadiostationWeb\\Controllers\\RecordDetailController.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAkwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:30:25.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\Users\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\ViewModels\\Users\\EditUserViewModel.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\Users\\EditUserViewModel.cs",
+              "RelativeToolTip": "RadiostationWeb\\ViewModels\\Users\\EditUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:09:13.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:03:38.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:28:59.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T13:46:56.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:16:16.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:16:56.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:13:36.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Records\\Details.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Records\\Details.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Records\\Details.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Records\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T17:14:46.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Records\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Records\\Index.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Records\\Index.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Records\\Index.cshtml",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:46:07.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Records\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Records\\Delete.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Records\\Delete.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Records\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:56:35.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\RecordDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\RecordDetails\\Delete.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\RecordDetails\\Delete.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\RecordDetails\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:45:28.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\RecordDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\RecordDetails\\Index.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\RecordDetails\\Index.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\RecordDetails\\Index.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:45:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:22:58.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Genres\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Genres\\Delete.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Genres\\Delete.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Genres\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:23:11.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:44:52.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\BroadcastSchedules\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\BroadcastSchedules\\Delete.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\BroadcastSchedules\\Delete.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\BroadcastSchedules\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T13:45:13.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\BroadcastSchedules\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\BroadcastSchedules\\Index.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\BroadcastSchedules\\Index.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\BroadcastSchedules\\Index.cshtml",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:15:09.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Artists\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Artists\\Delete.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Artists\\Delete.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Artists\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:56:15.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Artists\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Artists\\Index.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Artists\\Index.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Artists\\Index.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T07:38:38.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Infrastructure\\SessionExtensions.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\SessionExtensions.cs",
+              "RelativeToolTip": "RadiostationWeb\\Infrastructure\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:46:37.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "RadiostationWeb\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:08:18.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Genres\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Genres\\Index.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Genres\\Index.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Genres\\Index.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:59:06.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "RadiostationWeb\\appsettings.json",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\appsettings.json",
+              "RelativeToolTip": "RadiostationWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T10:50:11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BroadcastSheduleService.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Services\\BroadcastSheduleService.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Services\\BroadcastSheduleService.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Services\\BroadcastSheduleService.cs",
+              "RelativeToolTip": "RadiostationWeb\\Services\\BroadcastSheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:58:55.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IBroadcastSheduleService.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Services\\IBroadcastSheduleService.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Services\\IBroadcastSheduleService.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Services\\IBroadcastSheduleService.cs",
+              "RelativeToolTip": "RadiostationWeb\\Services\\IBroadcastSheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:08:33.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DbInitiallizer.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Data\\DbInitiallizer.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Data\\DbInitiallizer.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Data\\DbInitiallizer.cs",
+              "RelativeToolTip": "RadiostationWeb\\Data\\DbInitiallizer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:04:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RecordController.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\RecordController.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Controllers\\RecordController.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\RecordController.cs",
+              "RelativeToolTip": "RadiostationWeb\\Controllers\\RecordController.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAA3wOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:51:33.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Controllers\\GenreController.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "RadiostationWeb\\Controllers\\GenreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:32:53.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DbCacheMiddleware.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Middleware\\DbCacheMiddleware.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Middleware\\DbCacheMiddleware.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Middleware\\DbCacheMiddleware.cs",
+              "RelativeToolTip": "RadiostationWeb\\Middleware\\DbCacheMiddleware.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:59:19.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "RadiostationWeb\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAYwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:53:26.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BroadcastScheduleController.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\BroadcastScheduleController.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Controllers\\BroadcastScheduleController.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\BroadcastScheduleController.cs",
+              "RelativeToolTip": "RadiostationWeb\\Controllers\\BroadcastScheduleController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAkwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:53:22.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Controllers\\ArtistController.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "RadiostationWeb\\Controllers\\ArtistController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAYwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:25:51.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RadiostationWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:38:35.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "Tests\\Usings.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\Usings.cs",
+              "RelativeToolTip": "Tests\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:13:58.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RecordsControllerTests.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\RecordsControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\RecordsControllerTests.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\RecordsControllerTests.cs",
+              "RelativeToolTip": "Tests\\RecordsControllerTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:40:47.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmployeesControllerTests.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\EmployeesControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\EmployeesControllerTests.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\EmployeesControllerTests.cs",
+              "RelativeToolTip": "Tests\\EmployeesControllerTests.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAQwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:19:35.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BroadcastSchedulesControllerTests.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\BroadcastSchedulesControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\BroadcastSchedulesControllerTests.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\BroadcastSchedulesControllerTests.cs",
+              "RelativeToolTip": "Tests\\BroadcastSchedulesControllerTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:52:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TestDataHelper.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\TestDataHelper.cs",
+              "RelativeDocumentMoniker": "Tests\\TestDataHelper.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\Tests\\TestDataHelper.cs",
+              "RelativeToolTip": "Tests\\TestDataHelper.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:09:31.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:28:28.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:56:19.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:28:56.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:21:33.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:30:02.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BroadcastSchedule.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\BroadcastSchedule.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Models\\BroadcastSchedule.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\BroadcastSchedule.cs",
+              "RelativeToolTip": "RadiostationWeb\\Models\\BroadcastSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:56:44.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Record.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\Record.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Models\\Record.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\Record.cs",
+              "RelativeToolTip": "RadiostationWeb\\Models\\Record.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:08:47.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RadiostationWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:15:38.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Models\\Employee.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\Employee.cs",
+              "RelativeToolTip": "RadiostationWeb\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:15:39.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RadioStationDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Data\\RadioStationDbContext.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Data\\RadioStationDbContext.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Data\\RadioStationDbContext.cs",
+              "RelativeToolTip": "RadiostationWeb\\Data\\RadioStationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:31:22.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Models\\Artist.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\Artist.cs",
+              "RelativeToolTip": "RadiostationWeb\\Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:15:49.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Models\\Genre.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\Genre.cs",
+              "RelativeToolTip": "RadiostationWeb\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:15:33.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RecordDetail.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\RecordDetail.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Models\\RecordDetail.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Models\\RecordDetail.cs",
+              "RelativeToolTip": "RadiostationWeb\\Models\\RecordDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:30:22.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:27:39.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAYwJ0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:28:29.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:30:03.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:21:09.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:21:11.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:23:11.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "RadiostationWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:22:00.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "RadiostationWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "RadiostationWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-11T10:35:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20241111105903_initializeIdentity.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Migrations\\ApplicationDb\\20241111105903_initializeIdentity.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Migrations\\ApplicationDb\\20241111105903_initializeIdentity.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Migrations\\ApplicationDb\\20241111105903_initializeIdentity.cs",
+              "RelativeToolTip": "RadiostationWeb\\Migrations\\ApplicationDb\\20241111105903_initializeIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:59:03.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ExceptionFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Filters\\ExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Infrastructure\\Filters\\ExceptionFilterAttribute.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Filters\\ExceptionFilterAttribute.cs",
+              "RelativeToolTip": "RadiostationWeb\\Infrastructure\\Filters\\ExceptionFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:06:57.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "SetToSessionAttribute.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Filters\\SetToSessionAttribute.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Infrastructure\\Filters\\SetToSessionAttribute.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Filters\\SetToSessionAttribute.cs",
+              "RelativeToolTip": "RadiostationWeb\\Infrastructure\\Filters\\SetToSessionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:07:32.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Transformations.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Transformations.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Infrastructure\\Transformations.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Transformations.cs",
+              "RelativeToolTip": "RadiostationWeb\\Infrastructure\\Transformations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:47:43.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TimingLogAttribute.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Filters\\TimingLogAttribute.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Infrastructure\\Filters\\TimingLogAttribute.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Filters\\TimingLogAttribute.cs",
+              "RelativeToolTip": "RadiostationWeb\\Infrastructure\\Filters\\TimingLogAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:08:01.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CacheResourceFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Filters\\CacheResourceFilterAttribute.cs",
+              "RelativeDocumentMoniker": "RadiostationWeb\\Infrastructure\\Filters\\CacheResourceFilterAttribute.cs",
+              "ToolTip": "D:\\Study\\3\u041A\u0423\u0420\u0421\\5 \u0421\u0415\u041C\u0415\u0421\u0422\u0420\\\u0420\u041F\u0411\u0414\u0418\u0421\\lab2\\Rpbdis\\Rpbdis5\\RadiostationWeb\\RadiostationWeb\\Infrastructure\\Filters\\CacheResourceFilterAttribute.cs",
+              "RelativeToolTip": "RadiostationWeb\\Infrastructure\\Filters\\CacheResourceFilterAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:47:31.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

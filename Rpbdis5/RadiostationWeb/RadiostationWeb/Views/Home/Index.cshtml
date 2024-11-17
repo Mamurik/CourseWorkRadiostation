@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Информация о Радиостанции";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Радиостанция</h1>
+    <nav class="nav flex-column border rounded p-3 shadow-sm" style="background-color: #f8f9fa;">
+        <h5 class="text-muted">Навигация</h5>
+        <a class="nav-link text-dark" asp-controller="Artists" asp-action="Index">Артисты</a>
+        <a class="nav-link text-dark" asp-controller="Records" asp-action="Index">Записи</a>
+        <a class="nav-link text-dark" asp-controller="Employees" asp-action="Index">Работники</a>
+        <a class="nav-link text-dark" asp-controller="BroadcastSchedules" asp-action="Index">Расписание трансляций</a>
+        <a class="nav-link text-dark" asp-controller="Genres" asp-action="Index">Жанры</a>
+        <a class="nav-link text-dark" asp-controller="RecordDetails" asp-action="Index">Детали записей</a>
+    </nav>
+</div>

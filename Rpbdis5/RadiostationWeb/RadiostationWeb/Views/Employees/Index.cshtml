@@ -1,0 +1,159 @@
+﻿@model IEnumerable<RadiostationWeb.Models.Employee>
+
+@{
+    ViewData["Title"] = "Работники";
+}
+
+<div class="container">
+    <h2 class="my-3">Работники</h2>
+
+    <!-- Кнопка для показа/скрытия формы создания -->
+    <button type="button" class="btn btn-outline-success mb-3" onclick="toggleCreateForm()">Создать нового работника</button>
+
+    <!-- Форма для фильтрации -->
+    <form asp-action="Index" method="get" class="mb-3">
+        <div class="input-group mb-2">
+            <input type="text" name="searchString" value="@ViewBag.SearchString" class="form-control" placeholder="Введите имя работника..." />
+        </div>
+        <div class="input-group mb-2">
+            <input type="text" name="educationFilter" value="@ViewBag.EducationFilter" class="form-control" placeholder="Введите образование..." />
+        </div>
+        <button class="btn btn-outline-secondary" type="submit">Фильтровать</button>
+    </form>
+
+    <!-- Форма для создания нового работника -->
+    <form asp-action="Create" method="post" id="createForm" class="mb-4 p-3 border rounded" style="display: none;">
+        <h5>Создать нового работника</h5>
+        <div class="mb-3">
+            <label for="createFullName" class="form-label">Имя работника:</label>
+            <input type="text" name="FullName" id="createFullName" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="createEducation" class="form-label">Образование:</label>
+            <input type="text" name="Education" id="createEducation" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="createPosition" class="form-label">Позиция:</label>
+            <input type="text" name="Position" id="createPosition" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Создать</button>
+    </form>
+
+    <!-- Форма для редактирования работника -->
+    <form asp-action="Edit" method="post" id="editForm" class="mb-4 p-3 border rounded" style="display: none;">
+        <h5>Редактировать работника</h5>
+        <input type="hidden" name="EmployeeId" id="editEmployeeId" />
+        <div class="mb-3">
+            <label for="editFullName" class="form-label">Имя работника:</label>
+            <input type="text" name="FullName" id="editFullName" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="editEducation" class="form-label">Образование:</label>
+            <input type="text" name="Education" id="editEducation" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="editPosition" class="form-label">Позиция:</label>
+            <input type="text" name="Position" id="editPosition" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Обновить</button>
+    </form>
+
+    <table class="table table-hover table-bordered align-middle">
+        <thead class="table-light">
+            <tr>
+                <th>
+                    <a asp-action="Index" asp-route-sortField="FullName" asp-route-sortAsc="@(ViewBag.SortField == "FullName" ? !ViewBag.SortAsc : true)" asp-route-searchString="@ViewBag.SearchString" asp-route-educationFilter="@ViewBag.EducationFilter">
+                        Имя Работника
+                        @if (ViewBag.SortField == "FullName")
+                        {
+                            <span>@(ViewBag.SortAsc ? "▲" : "▼")</span>
+                        }
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortField="Education" asp-route-sortAsc="@(ViewBag.SortField == "Education" ? !ViewBag.SortAsc : true)" asp-route-searchString="@ViewBag.SearchString" asp-route-educationFilter="@ViewBag.EducationFilter">
+                        Образование
+                        @if (ViewBag.SortField == "Education")
+                        {
+                            <span>@(ViewBag.SortAsc ? "▲" : "▼")</span>
+                        }
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortField="Position" asp-route-sortAsc="@(ViewBag.SortField == "Position" ? !ViewBag.SortAsc : true)" asp-route-searchString="@ViewBag.SearchString" asp-route-educationFilter="@ViewBag.EducationFilter">
+                        Позиция
+                        @if (ViewBag.SortField == "Position")
+                        {
+                            <span>@(ViewBag.SortAsc ? "▲" : "▼")</span>
+                        }
+                    </a>
+                </th>
+                <th>Действия</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var employee in Model)
+                {
+                    <tr id="employee-@employee.EmployeeId">
+                        <td>@employee.FullName</td>
+                        <td>@employee.Education</td>
+                        <td>@employee.Position</td>
+                        <td>
+                            <button type="button" class="btn btn-outline-secondary btn-sm" onclick="editEmployee(@employee.EmployeeId)">Редактировать</button>
+                            <a asp-action="Delete" asp-route-id="@employee.EmployeeId" class="btn btn-outline-danger btn-sm">Удалить</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4">Нет работников.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    <!-- Пагинация -->
+    <nav>
+        <ul class="pagination justify-content-center">
+            @if (ViewBag.TotalRecords > 0)
+            {
+                int totalPages = (int)Math.Ceiling((double)ViewBag.TotalRecords / ViewBag.PageSize);
+
+                for (int i = 1; i <= totalPages; i++)
+                {
+                    <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-searchString="@ViewBag.SearchString" asp-route-educationFilter="@ViewBag.EducationFilter">@i</a>
+                    </li>
+                }
+            }
+        </ul>
+    </nav>
+</div>
+
+@section Scripts {
+    <script>
+        function toggleCreateForm() {
+            $('#createForm').toggle();
+            $('#editForm').hide();
+        }
+
+        function editEmployee(employeeId) {
+            $.get('/Employees/Edit/' + employeeId, function (data) {
+                // Заполнение формы редактирования данными выбранной записи
+                $('#editEmployeeId').val(data.employeeId);
+                $('#editFullName').val(data.fullName);
+                $('#editEducation').val(data.education);
+                $('#editPosition').val(data.position);
+
+                // Скрываем форму создания и показываем форму редактирования
+                $('#createForm').hide();
+                $('#editForm').show();
+            });
+        }
+    </script>
+}

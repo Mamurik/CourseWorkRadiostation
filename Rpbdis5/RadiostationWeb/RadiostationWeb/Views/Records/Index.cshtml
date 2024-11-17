@@ -1,0 +1,188 @@
+﻿@model IEnumerable<RadiostationWeb.Models.Record>
+@{
+    ViewData["Title"] = "Records";
+}
+
+<div class="container">
+    <h2 class="my-3">Records</h2>
+
+    <form method="get" asp-action="Index" class="mb-3">
+        <label class="form-label">Filter:</label>
+        <div class="input-group">
+            <input type="text" name="artistFilter" value="@ViewBag.ArtistFilter" class="form-control" placeholder="Artist" />
+            <input type="text" name="genreFilter" value="@ViewBag.GenreFilter" class="form-control" placeholder="Genre" />
+            <button type="submit" class="btn btn-outline-secondary">Filter</button>
+        </div>
+    </form>
+    <button type="button" class="btn btn-outline-success mb-3" onclick="toggleCreateForm()">Toggle Create Form</button>
+
+    <!-- Форма для создания новой записи -->
+    <form asp-action="Create" method="post" id="createForm" class="mb-4 p-3 border rounded" style="display:none;">
+        <h5>Add New Record</h5>
+        <div class="mb-3">
+            <label for="createTitle" class="form-label">Title:</label>
+            <input type="text" name="title" id="createTitle" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="createAlbum" class="form-label">Album:</label>
+            <input type="text" name="album" id="createAlbum" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="createYear" class="form-label">Year:</label>
+            <input type="number" name="year" id="createYear" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="createArtistId" class="form-label">Artist:</label>
+            <select name="artistId" id="createArtistId" class="form-control" required>
+                @foreach (var artist in ViewBag.Artists)
+                {
+                    <option value="@artist.ArtistId">@artist.Name</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="createGenreId" class="form-label">Genre:</label>
+            <select name="genreId" id="createGenreId" class="form-control" required>
+                @foreach (var genre in ViewBag.Genres)
+                {
+                    <option value="@genre.GenreId">@genre.Name</option>
+                }
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Create Record</button>
+    </form>
+
+    <!-- Форма для редактирования существующей записи -->
+    <form asp-action="Edit" method="post" id="editForm" class="mb-4 p-3 border rounded" style="display:none;">
+        <h5>Edit Record</h5>
+        <input type="hidden" name="recordId" value="" />
+        <div class="mb-3">
+            <label for="editTitle" class="form-label">Title:</label>
+            <input type="text" name="title" id="editTitle" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="editAlbum" class="form-label">Album:</label>
+            <input type="text" name="album" id="editAlbum" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="editYear" class="form-label">Year:</label>
+            <input type="number" name="year" id="editYear" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="editArtistId" class="form-label">Artist:</label>
+            <select name="artistId" id="editArtistId" class="form-control" required>
+                @foreach (var artist in ViewBag.Artists)
+                {
+                    <option value="@artist.ArtistId">@artist.Name</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="editGenreId" class="form-label">Genre:</label>
+            <select name="genreId" id="editGenreId" class="form-control" required>
+                @foreach (var genre in ViewBag.Genres)
+                {
+                    <option value="@genre.GenreId">@genre.Name</option>
+                }
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Update Record</button>
+    </form>
+
+    <table class="table table-hover table-bordered align-middle">
+        <thead class="table-light">
+            <tr>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="Title" asp-route-sortDirection="@ViewBag.SortDirection"
+                       asp-route-artistFilter="@ViewBag.ArtistFilter" asp-route-genreFilter="@ViewBag.GenreFilter">
+                        Title @(ViewBag.SortColumn == "Title" ? (ViewBag.SortDirection == "asc" ? "▲" : "▼") : "")
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="Artist" asp-route-sortDirection="@ViewBag.SortDirection"
+                       asp-route-artistFilter="@ViewBag.ArtistFilter" asp-route-genreFilter="@ViewBag.GenreFilter">
+                        Artist @(ViewBag.SortColumn == "Artist" ? (ViewBag.SortDirection == "asc" ? "▲" : "▼") : "")
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="Album" asp-route-sortDirection="@ViewBag.SortDirection"
+                       asp-route-artistFilter="@ViewBag.ArtistFilter" asp-route-genreFilter="@ViewBag.GenreFilter">
+                        Album @(ViewBag.SortColumn == "Album" ? (ViewBag.SortDirection == "asc" ? "▲" : "▼") : "")
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="Year" asp-route-sortDirection="@ViewBag.SortDirection"
+                       asp-route-artistFilter="@ViewBag.ArtistFilter" asp-route-genreFilter="@ViewBag.GenreFilter">
+                        Year @(ViewBag.SortColumn == "Year" ? (ViewBag.SortDirection == "asc" ? "▲" : "▼") : "")
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="Genre" asp-route-sortDirection="@ViewBag.SortDirection"
+                       asp-route-artistFilter="@ViewBag.ArtistFilter" asp-route-genreFilter="@ViewBag.GenreFilter">
+                        Genre @(ViewBag.SortColumn == "Genre" ? (ViewBag.SortDirection == "asc" ? "▲" : "▼") : "")
+                    </a>
+                </th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var record in Model)
+            {
+                <tr>
+                    <td>@record.Title</td>
+                    <td>@record.Artist.Name</td>
+                    <td>@record.Album</td>
+                    <td>@record.Year</td>
+                    <td>@record.Genre.Name</td>
+                    <td>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="editRecord(@record.RecordId)">Edit</button> |
+                        <a asp-action="Delete" asp-route-id="@record.RecordId" class="btn btn-outline-danger btn-sm">Delete</a> |
+                        <a asp-action="Details" asp-route-id="@record.RecordId" class="btn btn-outline-info btn-sm">ПОДРОБНО</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div>
+        @if (ViewBag.TotalRecords > ViewBag.PageSize)
+        {
+            <nav>
+                <ul class="pagination justify-content-center">
+                    @for (var i = 1; i <= (int)Math.Ceiling((double)ViewBag.TotalRecords / ViewBag.PageSize); i++)
+                    {
+                        <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                            <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-artistFilter="@ViewBag.ArtistFilter" asp-route-genreFilter="@ViewBag.GenreFilter">
+                                @i
+                            </a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function toggleCreateForm() {
+            $('#createForm').toggle();
+            $('#editForm').hide(); // Скрываем форму редактирования при открытии формы создания
+        }
+
+        function editRecord(recordId) {
+            $.get('/Records/Edit/' + recordId, function (data) {
+                $('input[name="recordId"]').val(data.recordId);
+                $('#editTitle').val(data.title);
+                $('#editAlbum').val(data.album);
+                $('#editYear').val(data.year);
+                $('#editArtistId').val(data.artistId);
+                $('#editGenreId').val(data.genreId);
+
+                $('#createForm').hide(); // Скрываем форму создания
+                $('#editForm').show();    // Показываем форму редактирования
+            });
+        }
+    </script>
+}
